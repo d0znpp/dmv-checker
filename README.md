@@ -1,4 +1,4 @@
-# DMV appointments checker
+# DMV appointment checker
 ## HOW TO USE
 
 ```
